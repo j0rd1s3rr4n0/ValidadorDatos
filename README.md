@@ -1,5 +1,5 @@
 # Validador Datos JSON
-
+<img src="https://i.imgur.com/Atbgctd.png" alt="Screenshot App">
 
 
 personas.json
