@@ -1,0 +1,14 @@
+C:\Users\Propietario\source\repos\ValidadorDadesJson\bin\Debug\ValidadorDadesJson.exe.config
+C:\Users\Propietario\source\repos\ValidadorDadesJson\bin\Debug\ValidadorDadesJson.exe
+C:\Users\Propietario\source\repos\ValidadorDadesJson\bin\Debug\ValidadorDadesJson.pdb
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.Form1.resources
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.Properties.Resources.resources
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.csproj.GenerateResource.cache
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.exe
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.pdb
+C:\Users\Propietario\source\repos\ValidadorDadesJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Propietario\source\repos\ValidadorDadesJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Propietario\source\repos\ValidadorDadesJson\obj\Debug\ValidadorDadesJson.csproj.CopyComplete
