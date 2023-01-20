@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("ValidadorDadesJson")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Validador de Datos de Personas a raíz de un Archivo JSON")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jordi Serrano")]
 [assembly: AssemblyProduct("ValidadorDadesJson")]
 [assembly: AssemblyCopyright("Copyright © Jordi Serrano 2023")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("j0rd1s3rr4n0")]
 [assembly: AssemblyCulture("")]
 
 // Si establece ComVisible en false, los tipos de este ensamblado no estarán visibles 
