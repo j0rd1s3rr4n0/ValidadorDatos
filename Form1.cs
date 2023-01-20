@@ -83,12 +83,12 @@ namespace ValidadorDadesJson
         public async Task<List<persona>> ValidatePersonDataLinq(List<persona> personList)
         {
              List<persona> result = personList.Where(persona => persona.comprova_dni() && persona.comprova_nom() && persona.comprova_mail()).ToList();
-            return await Task.FromResult(personList);
+            return await Task.FromResult(result);
         }
         public async Task<List<persona>> InvalidPersonDataLinq(List<persona> personList)
         {
             List<persona> result = personList.Where(persona => !persona.comprova_dni() || !persona.comprova_nom() || !persona.comprova_mail()).ToList();
-            return await Task.FromResult(personList);
+            return await Task.FromResult(result);
         }
 
         /*
