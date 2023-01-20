@@ -176,7 +176,9 @@
             this.dgrid_datos.AllowUserToOrderColumns = true;
             this.dgrid_datos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.dgrid_datos.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dgrid_datos.BackgroundColor = System.Drawing.Color.White;
             this.dgrid_datos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgrid_datos.GridColor = System.Drawing.Color.White;
             this.dgrid_datos.Location = new System.Drawing.Point(11, 46);
             this.dgrid_datos.Name = "dgrid_datos";
             this.dgrid_datos.RowHeadersWidth = 51;
@@ -371,7 +373,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Validador Datos Json Parallel - J0rd1s3rr4n0";
             this.TopMost = true;
-            this.TransparencyKey = System.Drawing.SystemColors.AppWorkspace;
+            this.TransparencyKey = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
